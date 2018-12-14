@@ -1,0 +1,14 @@
+C:\C#\CARROS\CARROS\bin\Debug\netcoreapp2.1\CARROS.deps.json
+C:\C#\CARROS\CARROS\bin\Debug\netcoreapp2.1\CARROS.runtimeconfig.json
+C:\C#\CARROS\CARROS\bin\Debug\netcoreapp2.1\CARROS.runtimeconfig.dev.json
+C:\C#\CARROS\CARROS\bin\Debug\netcoreapp2.1\CARROS.dll
+C:\C#\CARROS\CARROS\bin\Debug\netcoreapp2.1\CARROS.pdb
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.csproj.CoreCompileInputs.cache
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.RazorAssemblyInfo.cache
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.RazorAssemblyInfo.cs
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.AssemblyInfoInputs.cache
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.AssemblyInfo.cs
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.RazorTargetAssemblyInfo.cache
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.dll
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.pdb
+C:\C#\CARROS\CARROS\obj\Debug\netcoreapp2.1\CARROS.csprojAssemblyReference.cache
